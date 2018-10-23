@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Indie+Flower');
+
+.alerte h1
+{
+  font-family: 'Roboto', sans-serif;
+}
+.procductBanner h1
+{
+  text-align: center;
+}
+
+h1
+{
+  padding-top: 1.4em;
+  padding-bottom: 0.7em;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2,h3,p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-title
+{
+  text-align: center;
+}
+.btn-success
+{
+  float: right;
+}
+
+.userIcon
+{
+  height: 40px;
+}
+.col-4
+{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.avertissement
+{
+  background-color: red;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.avertissement h1
+{
+  font-size: 15px;
+}
+
+footer
+{
+  padding-top: 4em;
+}
